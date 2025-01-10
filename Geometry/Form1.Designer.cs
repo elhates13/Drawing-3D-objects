@@ -88,7 +88,6 @@ namespace Geometry
             this.CurveSurface = new System.Windows.Forms.Button();
             this.StartRotating = new System.Windows.Forms.Button();
             this.EndRotating = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.NumericUpDownTranslateX)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.NumericUpDownTranslateY)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.NumericUpDownTranslateZ)).BeginInit();
@@ -997,22 +996,11 @@ namespace Geometry
             this.EndRotating.UseVisualStyleBackColor = true;
             this.EndRotating.Click += new System.EventHandler(this.EndRotating_Click);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(1066, 796);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 45;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1484, 1001);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.EndRotating);
             this.Controls.Add(this.StartRotating);
             this.Controls.Add(this.CurveSurface);
@@ -1124,7 +1112,6 @@ namespace Geometry
         private Button CurveSurface;
         private Button StartRotating;
         private Button EndRotating;
-        private Button button1;
     }
 }
 
