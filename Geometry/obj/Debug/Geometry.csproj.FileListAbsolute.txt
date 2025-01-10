@@ -1,0 +1,202 @@
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Geometry.exe
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Geometry.pdb
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Tao.FreeGlut.dll
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Tao.OpenGl.dll
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Tao.Platform.Windows.dll
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Tao.FreeGlut.xml
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Tao.OpenGl.xml
+D:\Work\5 семестр\Geometry\Geometry\Geometry\bin\Debug\Tao.Platform.Windows.xml
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.exe
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.pdb
+D:\Work\5 семестр\Geometry\Geometry\Geometry\obj\Debug\Geometry.MainForm.resources
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.exe.config
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.FreeGlut.xml
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.OpenGl.xml
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.Platform.Windows.xml
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.MainForm.resources
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.pdb
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.exe.config
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.exe
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.pdb
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.FreeGlut.xml
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.OpenGl.xml
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.Platform.Windows.xml
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.MainForm.resources
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.exe
+F:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.exe.config
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.FreeGlut.xml
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.OpenGl.xml
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\bin\Debug\Tao.Platform.Windows.xml
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.MainForm.resources
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 1.0\Geometry\obj\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Geometry.exe.config
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.FreeGlut.dll
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.OpenGl.dll
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.Platform.Windows.dll
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.FreeGlut.xml
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.OpenGl.xml
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.Platform.Windows.xml
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.MainForm.resources
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Geometry.exe.config
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.FreeGlut.xml
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.OpenGl.xml
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\bin\Debug\Tao.Platform.Windows.xml
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.MainForm.resources
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 1.0 (Succesful First LR) — копия\Geometry\obj\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe.config
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.FreeGlut.xml
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.OpenGl.xml
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.Platform.Windows.xml
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.MainForm.resources
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe.config
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.FreeGlut.dll
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.OpenGl.dll
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.Platform.Windows.dll
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.FreeGlut.xml
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.OpenGl.xml
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.Platform.Windows.xml
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.MainForm.resources
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Geometry.exe.config
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.FreeGlut.dll
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.OpenGl.dll
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.Platform.Windows.dll
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.FreeGlut.xml
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.OpenGl.xml
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.Platform.Windows.xml
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.MainForm.resources
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Geometry.exe.config
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.FreeGlut.xml
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.OpenGl.xml
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\bin\Debug\Tao.Platform.Windows.xml
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.MainForm.resources
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 2.0 (Succesful First and Second LR) — копия\Geometry\obj\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe.config
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.pdb
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.FreeGlut.xml
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.OpenGl.xml
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.Platform.Windows.xml
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.MainForm.resources
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.exe
+D:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe.config
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.pdb
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.FreeGlut.dll
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.OpenGl.dll
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.Platform.Windows.dll
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.FreeGlut.xml
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.OpenGl.xml
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.Platform.Windows.xml
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.MainForm.resources
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.exe
+E:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.pdb
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe.config
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.exe
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Geometry.pdb
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.FreeGlut.xml
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.OpenGl.xml
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\bin\Debug\Tao.Platform.Windows.xml
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.MainForm.resources
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.Properties.Resources.resources
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.GenerateResource.cache
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.csproj.CopyComplete
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.exe
+G:\5 семестр\Geometry\Geometry 3.0 (Succesful First and Second LR)\Geometry\obj\Debug\Geometry.pdb
